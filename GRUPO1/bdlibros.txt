@@ -1,0 +1,7 @@
+-Título:Quijote -Año de publicación:1998 -Editorial:Edito 
+-Título:2 -Año de publicación:2 -Editorial:2 -Género:2
+-Título:1 -Año de publicación:1 -Editorial:1 -Género:Ciencia ficción
+-Título:Quijote -Año de publicación:1998 -Editorial:Bromera -Género:De caballerías
+-Título:Quijote -Año de publicación:1998 -Editorial:Ed -Género:Ciencia ficción
+-Título:Pollos -Año de publicación:2017 -Editorial:Granja -Género:Romántico
+-Título:El Johan -Año de publicación:1997 -Editorial:Los padres cristianos -Género:Terror
